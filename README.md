@@ -59,6 +59,7 @@ Ember, GTE and E5. TEI implements many features such as:
 
 ### Supported Models
 
+
 #### Text Embeddings
 
 You can use any JinaBERT model with Alibi or absolute positions or any BERT, CamemBERT, RoBERTa, or XLM-RoBERTa model
